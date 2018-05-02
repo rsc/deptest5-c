@@ -1,0 +1,3 @@
+[[constraint]]
+  name = "github.com/rsc/deptest5-d"
+  version = "1.0.0"
